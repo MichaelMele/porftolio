@@ -1,5 +1,3 @@
-## Education
-
 ## Experience
 
 ### Web Developer @ OCMH Inc (2020-2024) - [website](https://ocmhinc.com)
@@ -8,9 +6,8 @@
  - Led aspects of design, brand identity, development, and deployment
  - Grew customer base by 15% within the first month of website launch
    
-
-
 ## Projects
+
 ### Online Music Store - [website](https://prodbymele.com)
 - Languages: Liquid, HTML, CSS, JavaScript
 - Shopify-based platform for selling and previewing audio tracks, sample packs, and drum kits

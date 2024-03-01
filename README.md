@@ -8,7 +8,7 @@
  - Led aspects of design, brand identity, development, and deployment
  - Grew customer base by 15% within the first month of website launch
    
-### 
+
 
 ## Projects
 ### Online Music Store - [website](https://prodbymele.com)
